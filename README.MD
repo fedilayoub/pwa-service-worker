@@ -8,7 +8,7 @@ A service worker is one of the core building blocks that allows my app:
 -Enables other PWA features;  
 -Background synchronisation;  
 -Have mobile like push notification.  
-As shown bellow, even if I'm offline, sw.js file that represents our service worker(when registered),It allows our app to keep working when I refresh the page.  
+As shown below, even if I'm offline, sw.js file that represents our service worker(when registered),It allows our app to keep working when I refresh the page.  
 ![example of the sercice worker role](https://github.com/fedilayoub/pwa-service-worker/blob/main/service_worker.jpg)  
 # How to Use
 You need [Node.js](https://nodejs.org) installed on your machine. Simply download the installer from [nodejs.org](https://nodejs.org) and go through the installation steps.
