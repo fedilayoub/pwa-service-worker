@@ -1,7 +1,7 @@
 # Progressive Web Apps - Complete Guide
 -This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" course on udemy.com.  
--In the first section of this course I learned how effective are PWAs as a **reliable**, **fast** and **engaging** apps that will help me enhance the performance of my web app no matter if it's and SPA or old legacy web pages.  
-PWAs gathers both the capability of native apps and the reach of web page which makes it a powerful choice when it comes to build a web app.
+-In the first section of this course I learned how effective are PWAs as  **reliable**, **fast** and **engaging** apps that will help me enhance the performance of my web app no matter if it's and SPA or old legacy web pages.  
+PWAs gather both the capability of native apps and the reach of web page which makes it a powerful choice when it comes to build a web app.
 ## Service Worker  
 A service worker is one of the core building blocks that allows my app:  
 -To get offline support;  
